@@ -3,7 +3,7 @@ package javaBasics;
 public class AscendingOrder {
 
 	public static void main(String[] args) {
-		int [] arr = new int [] {2, 3, 1, 45, 15};     
+		int arr  [] = {2, 3, 1, 45, 15};     
         int temp = 0;    
             
         //Displaying elements of original array    
